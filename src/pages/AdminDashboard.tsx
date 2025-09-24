@@ -41,7 +41,7 @@ const AdminDashboard = () => {
         <div className="container mx-auto">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-2xl font-bold">MindCare Admin Dashboard</h1>
+              <h1 className="text-2xl font-bold">Sanwiti Admin Dashboard</h1>
               <p className="text-primary-foreground/80">Clinic Operations & Analytics Overview</p>
             </div>
             <div className="flex items-center space-x-4">

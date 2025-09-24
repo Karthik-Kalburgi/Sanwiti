@@ -113,7 +113,7 @@ const CreateAccount = () => {
         <div className="text-center mb-8">
           <Link to="/" className="inline-flex items-center space-x-2">
             <Brain className="h-10 w-10 text-primary" />
-            <span className="text-2xl font-bold text-primary">MindCare</span>
+            <span className="text-2xl font-bold text-primary">Sanwiti</span>
           </Link>
           <p className="text-muted-foreground mt-2">Create Your Patient Account</p>
         </div>

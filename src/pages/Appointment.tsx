@@ -310,7 +310,7 @@ const Appointment = () => {
                   <Mail className="h-4 w-4 text-muted-foreground" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-sm text-muted-foreground">appointments@mindcare.com</p>
+                    <p className="text-sm text-muted-foreground">appointments@sanwiti.com</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">

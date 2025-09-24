@@ -104,7 +104,7 @@ const Contact = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
-              Contact MindCare
+              Contact Us Sanwiti
             </h1>
             <p className="text-lg md:text-xl text-primary-foreground/90 leading-relaxed">
               We're here to help with any questions about our mental health services. 
@@ -279,7 +279,7 @@ const Contact = () => {
                   </div>
                   <div className="flex items-center space-x-2">
                     <Shield className="h-4 w-4 text-warning" />
-                    <span className="font-medium">Emergency: Call 911</span>
+                    <span className="font-medium">Emergency: Call 112</span>
                   </div>
                 </div>
               </CardContent>

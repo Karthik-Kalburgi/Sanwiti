@@ -298,7 +298,7 @@ const UserDashboard = () => {
                 <div className="space-y-2">
                   <Button variant="outline" size="sm" className="w-full">
                     <Phone className="h-4 w-4 mr-2" />
-                    Crisis Line: (555) 123-4567
+                    Crisis Line: 12345678900
                   </Button>
                   <Button variant="outline" size="sm" className="w-full">
                     <MessageCircle className="h-4 w-4 mr-2" />

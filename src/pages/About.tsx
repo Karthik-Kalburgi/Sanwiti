@@ -80,7 +80,7 @@ const About = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
-              About MindCare
+              About Sanwiti
             </h1>
             <p className="text-lg md:text-xl text-primary-foreground/90 leading-relaxed">
               Founded with a mission to make quality mental health care accessible to everyone, 

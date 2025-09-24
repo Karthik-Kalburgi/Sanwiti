@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Brain className="h-8 w-8" />
-              <span className="text-xl font-bold">MindCare</span>
+              <span className="text-xl font-bold">Sanwiti</span>
             </div>
             <p className="text-sm text-primary-foreground/80 leading-relaxed">
               Providing compassionate mental health care and psychological services 
@@ -66,7 +66,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary-foreground/80" />
-                <span className="text-primary-foreground/80">contact@mindcare.com</span>
+                <span className="text-primary-foreground/80">contact@sanwiti.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-primary-foreground/80" />
@@ -77,7 +77,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-sm text-primary-foreground/80">
-          <p>&copy; 2024 MindCare. All rights reserved. Professional mental health services.</p>
+          <p>&copy; 2025 Sanwiti . All rights reserved. Professional mental health services.</p>
         </div>
       </div>
     </footer>
